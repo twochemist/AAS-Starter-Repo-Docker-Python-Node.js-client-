@@ -27,7 +27,7 @@ aas-starter/
 
 1. Clone the repo
 
-git clone https://github.com/yourusername/aas-starter.git
+git clone https://github.com/twochemist/AAS-Starter-Repo-Docker-Python-Node.js-client-.git
 cd aas-starter
 
 2. Start the stack
