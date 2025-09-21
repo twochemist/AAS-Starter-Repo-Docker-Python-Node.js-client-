@@ -56,16 +56,6 @@ Backend Tools
 	•	TimescaleDB → https://www.timescale.com/
 	•	Kafka → https://kafka.apache.org/
 
-Diagram: Flow
-
-[ Physical Asset ] 
-        ↓
-[ Asset Administration Shell (AAS) ]
-        ↓
-[ AAS Repository API (REST/OpenAPI) ]
-        ↓
-[ Backend Services: Python, Node.js, Analytics, AI ]
-
 Next Steps
 	•	Add Submodels (e.g., digital nameplate, performance logs).
 	•	Persist AAS data into TimescaleDB.
